@@ -1,1 +1,1 @@
-![snake gif](https://github.com/Amborsia/Amborsia/blob.output/github-contribution-grid-snake.svg)
+<img src="https://github.com/Amborsia/Amborsia/blob/output/github-contribution-grid-snake.svg"/>
