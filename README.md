@@ -46,7 +46,7 @@
 <body>
     <div class="container">
         
-        <img src="https://github.com/Amborsia/Amborsia/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake"/>
+<img src="https://github.com/Amborsia/Amborsia/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake"/>
         
 <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+HongGeun's+Github" alt="Typing SVG"/>
