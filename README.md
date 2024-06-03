@@ -1,4 +1,3 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+profile!;I+love+coding!;JavaScript+%7C+Python+%7C+C%23)
 <!DOCTYPE html>
 <html lang="en">
 <!-- <head>
