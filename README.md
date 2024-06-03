@@ -23,10 +23,6 @@
         </div>
     </div>
 
- <div class="trophy-container">
-            <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-                <img src="https://github-profile-trophy.vercel.app/?username=Amborsia" alt="GitHub Trophies"/>
-            </a>
-        </div>
+
 </body>
 </html>
