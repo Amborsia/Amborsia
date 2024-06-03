@@ -1,48 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<!-- <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HongGeun's GitHub Page</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            color: #333;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            flex-direction: column;
-            min-height: 100vh;
-        }
-        .container {
-            text-align: center;
-            background: #fff;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            max-width: 800px;
-            width: 100%;
-        }
-        .link-container {
-            margin-top: 20px;
-        }
-        .link-container a, .link-container img {
-            display: inline-block;
-            vertical-align: middle;
-            margin-right: 10px;
-            margin-bottom: 10px;
-        }
-        .link-container a:last-child, .link-container img:last-child {
-            margin-right: 0;
-        }
-        .profile-stats img {
-            max-width: 100%;
-        }
-    </style>
-</head> -->
+
 <body>
     <div class="container">
         
@@ -64,6 +22,11 @@
             <img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge" />
         </div>
     </div>
+
+ <div class="trophy-container">
+            <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+                <img src="https://github-profile-trophy.vercel.app/?username=Amborsia" alt="GitHub Trophies"/>
+            </a>
+        </div>
 </body>
 </html>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Amborsia)](https://github.com/ryo-ma/github-profile-trophy)
