@@ -17,7 +17,8 @@
         </center>
       
 </div>
-[![Solved.ac프로필] (http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdrms1220))](https://solved.ac/ghdrms1220))
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=ghdrms122-)](https://solved.ac/ghdrms1220)
 
 <div class="link-container">
 
