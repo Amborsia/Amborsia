@@ -21,7 +21,7 @@
 
 <h3 align="center">| Tech Stack |</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/C#-007396?style=flat-square&logo=C#&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Csharp-007396?style=flat-square&logo=Charp&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
