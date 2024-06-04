@@ -15,8 +15,9 @@
         <center>
             <img src="https://github-readme-stats.vercel.app/api?username=Amborsia&show_icons=true&theme=radical" alt="Amborsia's GitHub stats"/>
         </center>
-      ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdrms1220)
+      
 </div>
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdrms1220)
 
 <div class="link-container">
 
