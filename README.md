@@ -4,7 +4,7 @@
 <body>
     <div class="container" align="center">
     <a href="https://git.io/typing-svg">
-        <img width="800" src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+HongGeun's+Github" alt="Typing SVG"/>
+        <img width="800" src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+Amborsia's+Github" alt="Typing SVG"/>
     </a>
 
 <img width="1000" src="https://github.com/Amborsia/Amborsia/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" style="max-width: 100%;"/>
@@ -13,8 +13,11 @@
 
 <div class="profile-stats" align="center">
         <center>
-            <img src="https://github-readme-stats.vercel.app/api?username=Amborsia&show_icons=true&theme=radical" alt="HongGeun's GitHub stats"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=Amborsia&show_icons=true&theme=radical" alt="Amborsia's GitHub stats"/>
         </center>
+     <h1>Amborsia's solved.ac stats</h1>
+        <img src="https://github-readme-solvedac.ghdrms1220.vercel.app/api/?handle=hyperflow" alt="ghdrms1220's solved.ac stats">
+    </div>
 </div>
 
 <div class="link-container">
