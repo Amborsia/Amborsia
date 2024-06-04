@@ -13,8 +13,10 @@
 
 
 <div class="profile-stats">
+        <center>
             <img src="https://github-readme-stats.vercel.app/api?username=Amborsia&show_icons=true&theme=radical" alt="HongGeun's GitHub stats"/>
-        </div>
+        </center>
+</div>
 
 <div class="link-container">
 
