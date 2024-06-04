@@ -8,7 +8,8 @@
     </a>
 
 <img width="1000" src="https://github.com/Amborsia/Amborsia/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" style="max-width: 100%;"/>
-     
+     <p>
+     </p>
 
 
 <div class="profile-stats" align="center">
@@ -17,6 +18,8 @@
         </center>
       
 </div>
+<p>
+     </p>
 <div align="center">
 
   [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ghdrms1220)](https://solved.ac/ghdrms1220)
