@@ -8,7 +8,7 @@
         <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+HongGeun's+Github" alt="Typing SVG"/>
 </a>
 
-<img src="https://github.com/Amborsia/Amborsia/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake"/>
+<img width="1000" src="https://github.com/Amborsia/Amborsia/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" style="max-width: 100%;"/>
         
 
 
