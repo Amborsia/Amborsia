@@ -41,12 +41,12 @@
 
 
             
-                <img src="https://img.shields.io/badge/blog_link-20232a.svg?style=for-the-badge&logo=blogger&logoColor=#FF5722" alt="Blog Badge" />
+<!-- <img src="https://img.shields.io/badge/blog_link-20232a.svg?style=for-the-badge&logo=blogger&logoColor=#FF5722" alt="Blog Badge" />
             </a>
             <img src="https://img.shields.io/badge/csharp-20232a.svg?style=for-the-badge&logo=csharp&logoColor=512BD4" alt="C# Badge" />
             <img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge" />
         </div>
-    </div>
+    </div>-->
 
 
 </body>
