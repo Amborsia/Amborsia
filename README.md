@@ -3,12 +3,14 @@
 
 <body>
     <div class="container">
-        
-<img src="https://github.com/Amborsia/Amborsia/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake"/>
-        
+
 <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+HongGeun's+Github" alt="Typing SVG"/>
 </a>
+
+<img src="https://github.com/Amborsia/Amborsia/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake"/>
+        
+
 
 <div class="profile-stats">
             <img src="https://github-readme-stats.vercel.app/api?username=Amborsia&show_icons=true&theme=radical" alt="HongGeun's GitHub stats"/>
