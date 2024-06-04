@@ -17,8 +17,12 @@
         </center>
       
 </div>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=ghdrms122-)](https://solved.ac/ghdrms1220)
+<div align="center">
+
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ghdrms1220)](https://solved.ac/ghdrms1220)
+</div>
+
+
 
 <div class="link-container">
 
