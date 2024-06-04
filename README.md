@@ -2,12 +2,11 @@
 <html lang="en">
 
 <body>
-    <div class="container">
-<div align="center">
+    <div class="container" align="center">
     <a href="https://git.io/typing-svg">
         <img width="800" src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+HongGeun's+Github" alt="Typing SVG"/>
     </a>
-</div>
+
 <img width="1000" src="https://github.com/Amborsia/Amborsia/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" style="max-width: 100%;"/>
      
 
