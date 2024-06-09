@@ -25,6 +25,15 @@
 <div align="center">
 
   [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ghdrms1220)](https://solved.ac/ghdrms1220)
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/Amborsia"
+  width="600"
+  height="300"
+/>
+</a>
+  
 </div>
 
 
