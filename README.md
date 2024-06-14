@@ -6,7 +6,7 @@
         <img width="800" src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+Amborsia's+Github" alt="Typing SVG"/>
     </a>
 
-
+ 
 
 <img width="1000" src="https://github.com/Amborsia/Amborsia/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" style="max-width: 100%;"/>
      <p>
