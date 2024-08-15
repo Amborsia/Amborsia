@@ -24,7 +24,7 @@
 <div align="center">
 
   [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ghdrms1220)](https://solved.ac/ghdrms1220)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amborsia&layout=compact)
+  
 
 <a href="https://github.com/devxb/gitanimals">
 <img
