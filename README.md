@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
   <br> -->
 <!--   <img src="https://img.shields.io/badge/Oracle-FF0000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp -->
-<!--   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp -->
+<!--   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp --> 
 </p>
 <h3 align="center">| Follow Me |</h3>
 <p align="center">
