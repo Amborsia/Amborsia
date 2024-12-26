@@ -57,7 +57,7 @@
 </p>
 <h3 align="center">| Follow Me |</h3>
 <p align="center">
-  <a href="https://blog.naver.com/ghdrms1220" target="_blank"><img src="https://img.shields.io/badge/blog-636e72?style=plastic&logo=blogger&logoColor=white&text=Resume"/></a>
+  <a href="https://velog.io/@ambrosia/posts" target="_blank"><img src="https://img.shields.io/badge/blog-636e72?style=plastic&logo=blogger&logoColor=white&text=Resume"/></a>
 <!--   <a href="mailto:skacjddn7@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=plastic&logo=Gmail&logoColor=white"/></a> -->
 </p>
 
