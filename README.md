@@ -10,8 +10,6 @@
 <img width="1000" src="https://github.com/Amborsia/Amborsia/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" style="max-width: 100%;"/>
      <p>
      </p>
-
-
 <div class="profile-stats" align="center">
         <center>
             <img src="https://github-readme-stats.vercel.app/api?username=Amborsia&show_icons=true&theme=radical" alt="Amborsia's GitHub stats"/>
